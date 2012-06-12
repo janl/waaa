@@ -1,7 +1,6 @@
 ---
 layout: main
 title: Excuses, Excuses!
-permalink: none
 ---
 
 # {{ page.title }}
@@ -38,5 +37,5 @@ All you need to prepare and submit is a talk *proposal*. Spend an evening sketch
 
 ##Convinced?
 
-If you need help brainstorming ideas, writing a talk proposal, making your slides, finding speaking engagements, *or anything else* please contact us.
+If you need help brainstorming ideas, writing a talk proposal, making your slides, finding speaking engagements, *or anything else* [please contact us](http://twitter.com/theophani).
 

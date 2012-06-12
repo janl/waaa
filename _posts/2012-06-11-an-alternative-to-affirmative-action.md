@@ -1,7 +1,6 @@
 ---
 layout: main
 title: An alternative to affirmative action
-permalink: none
 ---
 
 # {{ page.title }}
