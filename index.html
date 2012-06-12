@@ -16,7 +16,7 @@ layout: main
 
 <p>The fact is, men currently outnumber women in our industry. For women to be seen and heard with equal exposure as men, women must participate in disproportionately higher numbers than men. That’s, like, basic math. The fastest way for women to reach parity is for every single one of us to become active in the community.</p>
 
-<p><strong>We are all awesome. You included.</strong> Maybe you don’t feel so awesome right now, but I plan to convince you otherwise, and to help you: Read “<a href='/practical-tips-for-becoming-a-great-speaker.html'>Practical tips for becoming a great speaker</a>.”</p>
+<p><strong>We are all awesome. You included.</strong> Maybe you don’t feel so awesome right now, but I plan to convince you otherwise, and to help you.</p>
 
 <h2 id='dear_male_reader'>Dear male reader,</h2>
 
@@ -29,3 +29,16 @@ layout: main
 <p>I have not forgotten you, and you should also speak out, speak up, and get involved. I have created this site as a women to encourage other women, but I would love love love to see you become a speaker as well. All offers of encouragement and guidance are offered herein to you as well.</p>
 
 <p align="right"> — <em>Tiffany</em> </p>
+
+<h2 id="further-reading">More!</h2>
+
+<p>I'm building a collection of articles to help and motivate you:</p>
+
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}" id="{{ cat }}">{{ post.title }}</a>
+    {{ post.summary }}
+    <small>{{ post.date | date_to_string }}</small>
+  </li>
+{% endfor %}
+
