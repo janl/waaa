@@ -19,6 +19,12 @@ eurucamp | european ruby camp | summer edition - berlin. 17 - 19 august 2012
 
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"> </script>
 
+##[TwilioCon](http://www.twilio.com/conference)
+
+Submit [your cfp](https://docs.google.com/spreadsheet/viewform?formkey=dFpTeHN6dGJMVkxTbVVCNF9EUkY0VWc6MQ#gid=0)
+
+twiliocon | twilio conference 2012 | san francisco. 16 - 18 october 2012
+
 ## RubyThere
 
 Also check out [rubythere](http://rubythere.com/events/to/speak) for a list of ruby conferences with open CFPs.
