@@ -35,6 +35,8 @@ If the middle of your talk has a series of distinct sections, let your audience 
 
 *\* Yes there are stories that break this structure, but they are rare, and while the goods ones exceptional, the bad ones are dismal.*
 
+For a variation on this theme, check the TEDx talk ["the secret structure of great talks"](http://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks.html) by Nancy Duarte.
+
 ##Introduce yourself
 
 The point of your personal introduction is not to give your life story (snore), but to give you credibility. If your talk is mostly opinion, then justify why your opinion is valuable. For example, “As a beginner, my experience illustrates the kinds of frustration other beginners have” or “In my 5 years experience, I've seen this pattern again and again.” Such statements add credibility and can thus engage your audience.
