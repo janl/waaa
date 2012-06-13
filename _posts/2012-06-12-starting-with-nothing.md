@@ -5,7 +5,7 @@ title: Starting with nothing
 
 # {{ page.title }}
 
-##Well, \[almost\] nothing
+##Well, *almost* nothing
 
 A lot of conferences have calls for proposals (CFPs) months before the conference, but the speakers often present super-fresh stuff. I had a hunch, so I asked the Twitters:
 
