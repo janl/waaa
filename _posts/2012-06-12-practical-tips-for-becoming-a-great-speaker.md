@@ -15,7 +15,7 @@ Your talk should also motivate your audience about the topic. If the only thing 
 
 ##State your thesis
 
-A talk is a not a mystery novel: be clear and state the point you want people to understand. State it at the beginning and also at the end. It might even be the title of your talk as well.
+A talk is not a mystery novel: be clear and state the point you want people to understand. State it at the beginning and also at the end. It might even be the title of your talk as well.
 
 ##Know your ideas, not the exact words
 
@@ -25,7 +25,7 @@ The way to avoid reading from your notes, and to sound casual, is to remember a 
 
 ##Structure: have it
 
-In storytelling, there different kinds of narratives, but the most engaging and satisfying* ones have:
+In storytelling, there are different kinds of narratives, but the most engaging and satisfying* ones have:
 
 1. a beginning that introduces the motive *(motivation, purpose, thesis)*
 2. a middle where the motive is advanced *(explained, justified, challenged)*
@@ -33,7 +33,7 @@ In storytelling, there different kinds of narratives, but the most engaging and 
 
 If the middle of your talk has a series of distinct sections, let your audience know what they are in advance, and remind your audience where you are in your “agenda” as you go. You can do this verbally (e.g. “I explained A and B, and now I will explain C”) or just visually with your slides, or both.
 
-*\* Yes there are stories that break this structure, but they are rare, and while the goods ones exceptional, the bad ones are dismal.*
+*\* Yes there are stories that break this structure, but they are rare, and while the goods ones are exceptional, the bad ones are dismal.*
 
 ##Introduce yourself
 
