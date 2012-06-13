@@ -66,3 +66,7 @@ If understanding the side topic is a prerequisite *and* you assume your audience
 ##Learn from others
 
 As you watch anyone give a talk, pay attention to what you liked, and didn't like. When working and re-working your own talk, go back to those thoughts: Can you use any of the effective techniques in your talk? Are you making any of the same mistakes?
+
+Or learn from this person, Caroline Drucker ([@bougie](https://twitter.com/#!/bougie)), from her five minute talk about how to give a great talk:
+
+<iframe width="509" height="286" src="http://www.youtube.com/embed/2H36kbMMrZo" frameborder="0" allowfullscreen="true"> </iframe>
