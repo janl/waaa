@@ -28,3 +28,11 @@ twiliocon | twilio conference 2012 | san francisco. 16 - 18 october 2012
 ## RubyThere
 
 Also check out [rubythere](http://rubythere.com/events/to/speak) for a list of ruby conferences with open CFPs.
+
+## [BogotaConf](http://bogotaconf.co)
+
+Submit [your cfp](http://bogotaconf.co/callforproposals.html) or email [@buritica](http://twitter.com/buritica) at juanpablo [at] buritica.org for more info
+
+bogotaconf | Bogota, Colombia. 28,29 September 2012
+
+Independent not-for-profit conference. Travel and accomodation expenses taken care of
