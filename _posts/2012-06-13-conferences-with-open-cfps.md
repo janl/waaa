@@ -27,4 +27,10 @@ twiliocon | twilio conference 2012 | san francisco. 16 - 18 october 2012
 
 ## RubyThere
 
-Also check out [rubythere](http://rubythere.com/events/to/speak) for a list of ruby conferences with open CFPs.
+Also check out [rubythere](http://rubythere.com/events/to/speak) for a list of ruby conferences with open CFPs
+
+##[JSConf.au](http://www.jsconf.com.au/)
+
+JSConf.au [wants you to speak](https://docs.google.com/spreadsheet/viewform?formkey=dEhGcXZuY05MWGRUby1RSjd0WnEyRWc6MQ#gid=0)
+
+JSConf.au | JSConf australia 2012 | Sydney - 3 August 2012
