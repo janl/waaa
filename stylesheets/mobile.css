@@ -133,7 +133,11 @@ header {
   top: 51px;
 }
 
-header span.ribbon-inner {
+header a, header a:hover {
+  text-decoration: none;
+}
+
+header .ribbon-inner {
   position: relative;
   display: block;
   background-color: #cd596b;
@@ -142,7 +146,7 @@ header span.ribbon-inner {
   z-index: 1;
 }
 
-header span.left-tail, header span.right-tail {
+header .left-tail, header .right-tail {
   position: relative;
   display: block;
   width: 19px;
@@ -153,12 +157,12 @@ header span.left-tail, header span.right-tail {
   z-index: 0;
 }
 
-header span.left-tail {
+header .left-tail {
   background-position: 0 0;
   left: 0;
 }
 
-header span.right-tail {
+header .right-tail {
   background-position: -19px 0;
   right: 0;
 }
