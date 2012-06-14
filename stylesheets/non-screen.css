@@ -6,30 +6,33 @@ div.shell {
   width: 640px;
 }
 
-
 header {
   max-width:640px;
   margin: 0;
   top: 51px;
 }
 
-header span.ribbon-inner {
+header a, header a:hover {
+  text-decoration: none;
+}
+
+header .ribbon-inner {
   border: 8px solid #7c334f;
   padding: 6px;
 }
 
-header span.left-tail, header span.right-tail {
+header .left-tail, header .right-tail {
   width: 19px;
   height: 10px;
   background: transparent url(../images/ribbon-tail-sprite-2x.png) 0 0 no-repeat;
   bottom: -10px;
 }
 
-header span.left-tail {
+header .left-tail {
   left: 0;
 }
 
-header span.right-tail {
+header .right-tail {
   background-position: -19px 0;
   right: 0;
 }
