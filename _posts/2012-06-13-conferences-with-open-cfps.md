@@ -86,6 +86,10 @@ PHPNW 2012 | Manchester. 6 - 7 october 2012
 
 Calling everyone with a story to tell! Submissions due 24th June 2012.
 
+##[D2W, Virtual Conference](https://docs.google.com/spreadsheet/viewform?formkey=dElVUl9CeWtPMFJCMWc0UzNqS3FWcnc6MQ)
+
+D2W, Virtual Conference | Everywhere! TBD, likely starting first week of september
+
 <!-- leave this script at the bottom please :) -->
 <!-- TODO: put this somewhere else ... -->
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"> </script>
