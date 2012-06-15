@@ -80,4 +80,12 @@ Event Handler is geeks organising events for other geeks.
 
 <blockquote class="twitter-tweet" data-in-reply-to="212967884442439680"><p>@<a href="https://twitter.com/theophani">theophani</a> we like to help get speakers started and have been known to pair up the odd newb with a mentor for advice when we have time</p>&mdash; Event Handler (@eventhandleruk) <a href="https://twitter.com/eventhandleruk/status/212968442159042561" data-datetime="2012-06-13T18:03:28+00:00">June 13, 2012</a></blockquote>
 
+##[PHPNW 2012](http://conference.phpnw.org.uk/phpnw12/call-for-papers/)
+
+PHPNW 2012 | Manchester. 6 - 7 october 2012
+
+Calling everyone with a story to tell! Submissions due 24th June 2012.
+
+<!-- leave this script at the bottom please :) -->
+<!-- TODO: put this somewhere else ... -->
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"> </script>
