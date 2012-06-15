@@ -90,6 +90,14 @@ Calling everyone with a story to tell! Submissions due 24th June 2012.
 
 D2W, Virtual Conference | Everywhere! TBD, likely starting first week of september
 
+##[cf.Objective](http://cfobjective.com.au/news/call-for-speakers-for-2012)
+
+cf.Objective | melbourne, australia. 1 - 2 november 2012
+
+Topic submissions are due by Friday July 20.
+
+<blockquote class="twitter-tweet"><p>@<a href="https://twitter.com/theophani">theophani</a> cf.Objective (Melbourne Australia) CFS <a href="http://t.co/jSDS55pB" title="http://cfobjective.com.au/news/call-for-speakers-for-2012">cfobjective.com.au/news/call-for-…</a>. Last year we had one female speaker would like to improve on that.</p>&mdash; Justin Mclean (@JustinMclean) <a href="https://twitter.com/JustinMclean/status/213142794615791617" data-datetime="2012-06-14T05:36:16+00:00">June 14, 2012</a></blockquote>
+
 <!-- leave this script at the bottom please :) -->
 <!-- TODO: put this somewhere else ... -->
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"> </script>
