@@ -9,7 +9,7 @@ Affirmative action is bootstrapping. We’d love to eventually have an organic, 
 
 If you run a conference, you could choose to bootstrap your selection process in this way. However, explicitly setting aside speaker spots for women is bound to start a heated debate about whether affirmative action is fair, and whether it achieves its goals.
 
-Whether you feel affirmative action is unfair or not, the fact is some people percieve it as unfair. There is an alternative: to actively encourage women to submit conference proposals, especially to conferences that have blind selections processes.
+Whether you feel affirmative action is unfair or not, the fact is some people percieve it as unfair. There is an alternative: to actively encourage women to submit conference proposals, especially to conferences that have blind selection processes.
 
 As an industry, we could insist on taking affirmative action. Or we could jump over the topic of affirmative action entirely by instead actively and aggressively encouraging women to submit talk proposals to conferences.
 

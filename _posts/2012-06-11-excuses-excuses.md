@@ -25,7 +25,7 @@ I started small: I gave a lightning talk which was just a book review at one of 
 
 ##3. You think “I’m afraid of public speaking”
 
-Why, because you are afraid of looking stupid in front of a crowd? PROTIP: Being afraid of looking stupid is actually a fantastic motivator for being well-prepared. Most of us are intimated by public speaking. I’m afraid every single time, but then, because I’m prepared and I’ve practiced, everything goes well and I end up feeling great.
+Why, because you are afraid of looking stupid in front of a crowd? PROTIP: Being afraid of looking stupid is actually a fantastic motivator for being well-prepared. Most of us are intimidated by public speaking. I’m afraid every single time, but then, because I’m prepared and I’ve practiced, everything goes well and I end up feeling great.
 
 ##4. You think “I’m not nearly as nerdy and intense as some of those guys I’ve seen give talks”
 
