@@ -27,6 +27,14 @@ twiliocon | twilio conference 2012 | san francisco. 16 - 18 october 2012
 
 Also check out [rubythere](http://rubythere.com/events/to/speak) for a list of ruby conferences with open CFPs
 
+## [BogotaConf](http://bogotaconf.co)
+
+Submit [your cfp](http://bogotaconf.co/callforproposals.html) or email [@buritica](http://twitter.com/buritica) at juanpablo [at] buritica.org for more info
+
+bogotaconf | Bogota, Colombia. 28,29 September 2012
+
+Independent not-for-profit conference. Travel and accomodation expenses taken care of
+
 ##[JSConf.au](http://www.jsconf.com.au/)
 
 JSConf.au [wants you to speak](https://docs.google.com/spreadsheet/viewform?formkey=dEhGcXZuY05MWGRUby1RSjd0WnEyRWc6MQ#gid=0)
@@ -47,6 +55,7 @@ JS.everywhere | san jose. 26 - 27 october 2012
 
 ##[Full Frontal](http://2012.full-frontal.org/)
 
+<<<<<<< HEAD
 Apply [here](http://2012.full-frontal.org/#talk). Closing on 7th November.
 
 full frontal | brighton. 9 november 2012
