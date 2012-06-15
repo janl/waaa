@@ -98,6 +98,15 @@ Topic submissions are due by Friday July 20.
 
 <blockquote class="twitter-tweet"><p>@<a href="https://twitter.com/theophani">theophani</a> cf.Objective (Melbourne Australia) CFS <a href="http://t.co/jSDS55pB" title="http://cfobjective.com.au/news/call-for-speakers-for-2012">cfobjective.com.au/news/call-for-…</a>. Last year we had one female speaker would like to improve on that.</p>&mdash; Justin Mclean (@JustinMclean) <a href="https://twitter.com/JustinMclean/status/213142794615791617" data-datetime="2012-06-14T05:36:16+00:00">June 14, 2012</a></blockquote>
 
+##[MozCon](http://www.seomoz.org/blog/speaker-submissions-mozcon-2012)
+
+July 25th-July 27th in Seattle
+
+“We have four 10-minute spots.” Pitch is due Wednesday, June 27th at 5pm PDT.
+
+<blockquote class="twitter-tweet"><p>@<a href="https://twitter.com/theophani">theophani</a> MozCon's accepting pitches <a href="http://t.co/pYG0yxpb" title="http://mz.cm/MCj6C1">mz.cm/MCj6C1</a> We have almost 50/50 gender ratio</p>&mdash; Erica McGillivray (@emcgillivray) <a href="https://twitter.com/emcgillivray/status/213131199193956352" data-datetime="2012-06-14T04:50:12+00:00">June 14, 2012</a></blockquote>
+
+
 <!-- leave this script at the bottom please :) -->
 <!-- TODO: put this somewhere else ... -->
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"> </script>
