@@ -15,6 +15,10 @@ We all benefit from hearing different points of view. Your point of view and you
 
 Talk about anything you know to any audience that doesn’t already know it. If you are afraid to talk about a programming topic to an audience of programmers, then talk about programming to designers, or talk about design to programmers.
 
+In this short talk, Chiu-Ki Chan ([@chiuki](https://twitter.com/chiuki)) shares her secret formula for finding ideas using only your brain and a notepad:
+
+<iframe width="509" height="286" src="http://www.youtube.com/embed/MLdhamQlFfg" frameborder="0" allowfullscreen="true"> </iframe>
+
 You can also talk about something brand new for you. It doesn’t matter if you don’t know anything about the topic yet, either, since I promise you will know a lot about it when you give the talk. Giving a talk is a fantastic way to learn. Give the talk you want to hear.
 
 ##2. You think “I’d be a terrible speaker”
