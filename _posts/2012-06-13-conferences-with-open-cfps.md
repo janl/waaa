@@ -11,6 +11,10 @@ In order to get yourself in front of an audience, you first have to be selected 
 .twt-reply { display: none; }
 </style>
 
+##[Lanyrd's CFP directory](http://lanyrd.com/calls/)
+
+On [Lanyrd](http://lanyrd.com/), conference organisers have the option to post their CFP details, sortable by topic and submission deadline. Visit the [Lanyrd CFP directory](http://lanyrd.com/calls/) regularily!
+
 ##[eurucamp](http://2012.eurucamp.org/)
 
 eurucamp | european ruby camp | summer edition - berlin. 17 - 19 august 2012
