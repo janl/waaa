@@ -72,3 +72,12 @@ As you watch anyone give a talk, pay attention to what you liked, and didn't lik
 Or learn from this person, Caroline Drucker ([@bougie](https://twitter.com/bougie)), from her five minute talk about how to give a great talk:
 
 <iframe width="509" height="286" src="http://www.youtube.com/embed/2H36kbMMrZo" frameborder="0" allowfullscreen="true"> </iframe>
+
+##More advice
+
+Other people have written up their advice from their personal experience too. Be inspired!
+
+* [Technical Women–it’s conference submission season!](http://lynnlangit.wordpress.com/2012/01/04/technical-womenits-conference-submission-season/) by Lynn Langit, [@lynnlangit](http://twitter.com/lynnlangit)
+* [Talk Checklist](http://bassistance.de/about/talk-checklist/) by Jörn Zaefferer, [@bassistance](http://twitter.com/bassistance)
+* [Chiu-Ki Chan’s blog](http://blog.sqisland.com/search/label/speaking) by Chiu-Ki Chan, [@chiuki](http://twitter.com/chiuki)
+* Add your advice! [Make a pull request](https://github.com/janl/waaa)
