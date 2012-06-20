@@ -75,9 +75,11 @@ Or learn from this person, Caroline Drucker ([@bougie](https://twitter.com/bougi
 
 ##More advice
 
-Other people have written up their advice from their personal experience too. Be inspired!
+Other people have shared their advice from their personal experience too. Be inspired!
 
 * [Technical Women–it’s conference submission season!](http://lynnlangit.wordpress.com/2012/01/04/technical-womenits-conference-submission-season/) by Lynn Langit, [@lynnlangit](http://twitter.com/lynnlangit)
 * [Talk Checklist](http://bassistance.de/about/talk-checklist/) by Jörn Zaefferer, [@bassistance](http://twitter.com/bassistance)
 * [Chiu-Ki Chan’s blog](http://blog.sqisland.com/search/label/speaking) by Chiu-Ki Chan, [@chiuki](http://twitter.com/chiuki)
+* [What They Don't Tell You About Public Speaking](http://zachholman.com/posts/what-they-dont-tell-you-about-public-speaking/) by Zach Holman [@zachholman](http://twitter.com/zachholman)
+* [5 Things Every Presenter Needs To Know About People](http://vimeo.com/44267609) 5 minute video by Dr. Weinschenk
 * Add your advice! [Make a pull request](https://github.com/janl/waaa)
