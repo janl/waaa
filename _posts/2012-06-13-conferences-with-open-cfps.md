@@ -59,7 +59,6 @@ JS.everywhere | san jose. 26 - 27 october 2012
 
 ##[Full Frontal](http://2012.full-frontal.org/)
 
-<<<<<<< HEAD
 Apply [here](http://2012.full-frontal.org/#talk). Closing on 7th November.
 
 full frontal | brighton. 9 november 2012
