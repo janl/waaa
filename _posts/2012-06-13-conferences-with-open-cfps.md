@@ -109,6 +109,9 @@ July 25th-July 27th in Seattle
 
 <blockquote class="twitter-tweet"><p>@<a href="https://twitter.com/theophani">theophani</a> MozCon's accepting pitches <a href="http://t.co/pYG0yxpb" title="http://mz.cm/MCj6C1">mz.cm/MCj6C1</a> We have almost 50/50 gender ratio</p>&mdash; Erica McGillivray (@emcgillivray) <a href="https://twitter.com/emcgillivray/status/213131199193956352" data-datetime="2012-06-14T04:50:12+00:00">June 14, 2012</a></blockquote>
 
+##[MagicRuby](http://magic-ruby.com)
+
+magicruby | orlando, fl, usa | 5 - 6 october 2012
 
 <!-- leave this script at the bottom please :) -->
 <!-- TODO: put this somewhere else ... -->
