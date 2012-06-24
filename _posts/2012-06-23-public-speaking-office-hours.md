@@ -13,8 +13,10 @@ experience will also be there to answer your questions.
 
 Weekly office hours will be held over IRC.
 
-* Time: Tuesdays 1pm Pacific Time
+* Time: Tuesdays 1pm Pacific Time, 10pm Central European Time
 * Channel: [#weareallawesome on freenode](http://webchat.freenode.net/?channels=weareallawesome)
+
+Tip: [everytimezone.com](http://everytimezone.com/) is a super nice timezone reference.
 
 ## Mentors
 
