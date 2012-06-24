@@ -59,7 +59,7 @@ When you run `jekyll --server` you'll probably see webrick start up. Look for th
 
     [2012-06-23 14:02:42] INFO  WEBrick::HTTPServer#start: pid=3642 port=4000
 
-Here it started on port 4000, which is usual. That means that you can see your preview of the site at (localhost:4000)[http://localhost:4000/]
+Here it started on port 4000, which is usual. That means that you can see your preview of the site at [localhost:4000](http://localhost:4000/)
 
 ## If you have further questions, ask Uncle Google
 
