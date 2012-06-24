@@ -51,7 +51,9 @@ First, be sure you have Jekyll installed:
 
 Second, in the root of the project, run `jekyll --server` to generate the HTML files, and start the server:
 
-    jekyll --server
+    jekyll --server --auto
+
+`--auto` enables live reload so you don't need to restart the server to see your changes.
 
 When you run `jekyll --server` you'll probably see webrick start up. Look for the port number:
 
