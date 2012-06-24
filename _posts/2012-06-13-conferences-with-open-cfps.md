@@ -113,6 +113,13 @@ July 25th-July 27th in Seattle
 
 magicruby | orlando, fl, usa | 5 - 6 october 2012
 
+##[JSConf EU](http://2012.jsconf.eu/2012/06/19/call-for-presentations.html)
+
+JSConf EU | Berlin, October 6th-7th 2012.
+
+The call for presentations is open until July 15th, 2012.
+
+
 <!-- leave this script at the bottom please :) -->
 <!-- TODO: put this somewhere else ... -->
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"> </script>
