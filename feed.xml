@@ -1,0 +1,21 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>We Are All Awesome!</title>
+ <link href="http://weareallaweso.me/" rel="self"/>
+ <link href="http://weareallaweso.me/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://weareallaweso.me/</id>
+
+ {% for post in site.posts %}
+ <entry>
+   <title>{{ post.title | xml_escape }}</title>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://weareallaweso.me{{ post.url }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+</feed>
