@@ -25,3 +25,5 @@ outside office hours.
 
 * Chiu-Ki Chan, [@chiuki](http://twitter.com/chiuki)
 * Tiffany Conroy, [@theophani](http://twitter.com/theophani)
+* Lorna Mitchell, [@lornajane](http://twitter.com/lornajane)
+* Estelle Weyl, [@estellevw](http://twitter.com/estellevw)
