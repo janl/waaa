@@ -27,3 +27,14 @@ outside office hours.
 * Tiffany Conroy, [@theophani](http://twitter.com/theophani)
 * Lorna Mitchell, [@lornajane](http://twitter.com/lornajane)
 * Estelle Weyl, [@estellevw](http://twitter.com/estellevw)
+
+## New to IRC? Don’t be nervous!
+
+There are many ways to connect to Internet Relay Chat (IRC), just as there are many ways to access the web or your email. The easiest way is to use a web-based IRC client. You don’t have to decide which one now, just:
+
+1. Follow this link: [http://webchat.freenode.net/?channels=weareallawesome](http://webchat.freenode.net/?channels=weareallawesome)
+2. Choose a nickname (I recommend your Twitter handle)
+3. Enter the reCAPTCHA.
+4. Connect.
+
+Easy :)
