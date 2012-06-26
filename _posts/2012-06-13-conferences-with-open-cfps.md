@@ -111,6 +111,8 @@ July 25th-July 27th in Seattle
 
 ##[MagicRuby](http://magic-ruby.com)
 
+CFP closes July 20, 2012.
+
 magicruby | orlando, fl, usa | 5 - 6 october 2012
 
 ##[JSConf EU](http://2012.jsconf.eu/2012/06/19/call-for-presentations.html)
