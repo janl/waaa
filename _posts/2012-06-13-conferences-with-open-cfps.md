@@ -33,7 +33,7 @@ Also check out [rubythere](http://rubythere.com/events/to/speak) for a list of r
 
 ## [BogotaConf](http://bogotaconf.co)
 
-Submit [your cfp](http://bogotaconf.co/callforproposals.html) or email [@buritica](http://twitter.com/buritica) at juanpablo [at] buritica.org for more info
+Submit [your cfp](http://bogotaconf.co/callforproposals.html) or email [@buritica](http://twitter.com/buritica) at juanpablo \[at\] buritica.org for more info
 
 bogotaconf | Bogota, Colombia. 28,29 September 2012
 
