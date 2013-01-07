@@ -11,6 +11,12 @@ In order to get yourself in front of an audience, you first have to be selected 
 .twt-reply { display: none; }
 </style>
 
+##[MinneWebCon](http://minnewebcon.org/)
+
+MinneWebCon has a [CFP open through January 14, 2013](http://minnewebcon.org/speak). First time speakers and speakers from underrepresented populations in technology are encouraged to apply to this conference, which has a commitment to grassroots knowledge-sharing.  Topics covered in previous conferences have ranged from front-end development, mobile development, content strategy, user experience, etc.
+
+Minneapolis, Minnesota | April 15-16, 2013
+
 ##[Lanyrd's CFP directory](http://lanyrd.com/calls/)
 
 On [Lanyrd](http://lanyrd.com/), conference organisers have the option to post their CFP details, sortable by topic and submission deadline. Visit the [Lanyrd CFP directory](http://lanyrd.com/calls/) regularily!
