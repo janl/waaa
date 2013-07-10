@@ -12,7 +12,7 @@ The site contains/will contain advice on generating ideas and writing proposals,
 
 ### Powered with Github Pages + Jekyll
 
-This blog is powered with [Github Pages](https://help.github.com/articles/using-jekyll-with-pages), which is powered with [Jekyll](https://github.com/mojombo/jekyll/blob/master/README.textile).
+This blog is powered with [Github Pages](https://help.github.com/articles/using-jekyll-with-pages), which is powered with [Jekyll](https://github.com/mojombo/jekyll/blob/master/README.markdown).
 
 The magic: If your repository has a branch named gh-pages, Github automatically creates Github Pages for the repo. If you want to have a blog, you can have *just* a branch called gh-pages. Ta da!
 
