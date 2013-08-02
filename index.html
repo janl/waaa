@@ -34,13 +34,7 @@ layout: main
 
 <p>I’m building a collection of articles to help and motivate you:</p>
 
-{% for post in site.category.for_speakers %}
-  <li>
-    <a href="{{ post.url }}" id="{{ cat }}">{{ post.title }}</a>
-    {{ post.summary }}
-    <small>{{ post.date | date_to_string }}</small>
-  </li>
-{% endfor %}
+{% include list_of_pages_for_speakers.html %}
 
 <h2 id="want-to-contribute">Want to contribute?</h2>
 
