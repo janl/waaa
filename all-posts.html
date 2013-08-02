@@ -4,8 +4,10 @@ layout: main
 ---
 
   {% for post in site.posts %}
+    {% if post.redirect_to == null %}
     <li>
       <a href="{{ post.url }}" id="{{ cat }}">{{ post.title }}</a>
       <small>{{ post.date | date_to_string }}</small>
     </li>
+    {% endif %}
   {% endfor %}

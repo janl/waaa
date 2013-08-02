@@ -1,0 +1,91 @@
+<nav role="secondary">
+  <ul>
+  {% for page in site.pages %}
+    {% if (page.for_speakers) %}
+      {% if (page.list_order == "one") %}
+      <li>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+        {{ page.summary }}
+      </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% for page in site.pages %}
+    {% if (page.for_speakers) %}
+      {% if (page.list_order == "two") %}
+      <li>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+        {{ page.summary }}
+      </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% for page in site.pages %}
+    {% if (page.for_speakers) %}
+      {% if (page.list_order == "three") %}
+      <li>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+        {{ page.summary }}
+      </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% for page in site.pages %}
+    {% if (page.for_speakers) %}
+      {% if (page.list_order == "four") %}
+      <li>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+        {{ page.summary }}
+      </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% for page in site.pages %}
+    {% if (page.for_speakers) %}
+      {% if (page.list_order == "five") %}
+      <li>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+        {{ page.summary }}
+      </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% for page in site.pages %}
+    {% if (page.for_speakers) %}
+      {% if (page.list_order == "six") %}
+      <li>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+        {{ page.summary }}
+      </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% for page in site.pages %}
+    {% if (page.for_speakers) %}
+      {% if (page.list_order == "seven") %}
+      <li>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+        {{ page.summary }}
+      </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% for page in site.pages %}
+    {% if (page.for_speakers) %}
+      {% if (page.list_order == "eight") %}
+      <li>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+        {{ page.summary }}
+      </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </ul>
+</nav>
