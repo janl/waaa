@@ -1,6 +1,7 @@
 ---
 layout: main
 title: An alternative to affirmative action
+summary: Actively encourage women to submit conference proposals
 ---
 
 # {{ page.title }}
