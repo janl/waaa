@@ -26,4 +26,4 @@ Are you a conference or user group organizer who wants to encourage new speakers
 
 ## Want to contribute?
 
-I'll be expanding the resources with links to great talks, advice on generating getting ideas and writing proposals, a directory of women speakers, etc. **If you want to contribute**, either [contact me](http://twitter.com/theophani) or, better, make a [pull request](https://github.com/janl/waaa).
+If you want to contribute to these resources, including making a guest blog post, either [contact me](http://twitter.com/theophani) or, better, make a [pull request](https://github.com/janl/waaa).
