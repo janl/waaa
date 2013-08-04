@@ -1,5 +1,5 @@
 ---
-layout: for_speakers
+layout: main
 title: Become a speaker
 for_speakers: true
 list_order: one
