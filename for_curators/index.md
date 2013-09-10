@@ -14,7 +14,7 @@ Do you wish that the conferences and the user groups you organize had a more div
 
 A lot of people assume that only well-known or professionals speak at conferences. For some conferences, that is true, but if you know you want to include less known or inexperienced speakers, say so.
 
-## Ofter mentoring to new speakers
+## Offer mentoring to new speakers
 
 New speakers often doubt their abilities. You can rest their fears by offering mentoring or coaching. Most of them will not ask for the help, but they will feel better knowing that option is open to them.
 
