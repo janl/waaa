@@ -30,6 +30,8 @@ You can read more about this kind of process in the JSConf EU blog post [“Beat
 
 If you have an open call, send invitations to people that you want to talk at your event inviting them to submit a proposal. You might have more success if you suggest some of the topics that person could talk about. Ask your contacts for recommendations of people to invite that they want to encourage as well.
 
+**If you are looking to invite women speakers who already have some experience** then you could take a look at the [Articulate Network speaker list on Lanyrd](http://articulate-network.lanyrd.com/speakers/).
+
 <hr>
 
 ## Want to contribute?
