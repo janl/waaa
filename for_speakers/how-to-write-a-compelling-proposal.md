@@ -52,7 +52,7 @@ From my experience as a JSConf EU curator, I have seen lots of compelling, and n
 
 “Designing with cognitively-impaired users in mind can be very illuminative, leading to a broader understanding of the role of UX/UI design in general. The perceptual issues involved for users with Asperger syndrome and high-functioning autism in fact pave the way for current web trends - their web experience can be the most sensitive test of good design.”
 
-**Why is Natalia’s proposal compelling?** It claims there is an unexamined relationship being a lesser-known topic and a general one (between designing for cognitively-impaired users and good design in general). The second sentence adds substance by expanding the claim, and draws a connection to a topic the reader is already concerned about (current web trends and design testing).
+**Why is Natalia’s proposal compelling?** It claims there is an unexamined relationship between a lesser-known topic and a general one (between designing for cognitively-impaired users and good design in general). The second sentence adds substance by expanding the claim, and draws a connection to a topic the reader is already concerned about (current web trends and design testing).
 
 ## Have your proposal reviewed by someone with experience
 
