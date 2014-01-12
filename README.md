@@ -1,8 +1,8 @@
 # We Are All Awesome
 
-A blog with the intention of motivating, encouraging, and helping people begin speaking at conferences.
+A site with the intention of motivating, encouraging, and helping people begin speaking at conferences.
 
-The site contains/will contain advice on generating ideas and writing proposals, links to great talks, conferences with open CFPs, etc.
+The site contains: advice on writing proposals and slides, links to great talks, links to other resources, etc.
 
 ## How Contribute
 
@@ -12,19 +12,19 @@ The site contains/will contain advice on generating ideas and writing proposals,
 
 ### Powered with Github Pages + Jekyll
 
-This blog is powered with [Github Pages](https://help.github.com/articles/using-jekyll-with-pages), which is powered with [Jekyll](https://github.com/mojombo/jekyll/blob/master/README.markdown).
+This site is powered by [Github Pages](https://help.github.com/articles/using-jekyll-with-pages), which is powered with [Jekyll](https://github.com/mojombo/jekyll/blob/master/README.markdown).
 
-The magic: If your repository has a branch named gh-pages, Github automatically creates Github Pages for the repo. If you want to have a blog, you can have *just* a branch called gh-pages. Ta da!
+The magic: If your repository has a branch named gh-pages, Github automatically creates Github Pages for the repo. If you want to have a static site, you can have *just* a branch called gh-pages. Ta da!
 
 ### Text format
 
 All the posts are written in markdown. If you're not familiar with markdown, check out [Daring Fireball's syntax guide](http://daringfireball.net/projects/markdown/syntax).
 
-### Adding a blog post
+### Adding a page or post
 
-Posts go in the `_posts` directory, and must be named `YYYY-MM-DD-the-title-of-the-post.md`
+Blog posts (opinion, advice, timely news) goes in the `_posts` directory, and must be named `YYYY-MM-DD-the-title-of-the-post.md`.
 
-Start it off with the following:
+Start your page/post off with the following Jekyll “head matter”:
 
 ```
 ---
@@ -39,6 +39,8 @@ title: The Title of the Post
 
 Then add whatever content you want below this header. Write your post in [markdown](http://daringfireball.net/projects/markdown/syntax).
 
+Instructional/informational articles for speakers and curators go into the respective for_speakers and for_curators directories. The “head matter” for these pages is slightly different; take a look at the existing page to see what is required.
+
 ### Eyeballing Your Changes
 
 For small changes, you can safely make a pull request without previewing the changes.
@@ -49,13 +51,13 @@ First, be sure you have Jekyll installed:
 
     gem install jekyll
 
-Second, in the root of the project, run `jekyll --server` to generate the HTML files, and start the server:
+Second, in the root of the project, run `jekyll serve` to generate the HTML files, and start the server:
 
-    jekyll --server --auto
+    jekyll serve -w
 
-`--auto` enables live reload so you don't need to restart the server to see your changes.
+`-w` enables live reload so you don't need to restart the server to see your changes.
 
-When you run `jekyll --server` you'll probably see webrick start up. Look for the port number:
+When you run `jekyll serve` you'll probably see webrick start up. Look for the port number:
 
     [2012-06-23 14:02:42] INFO  WEBrick::HTTPServer#start: pid=3642 port=4000
 
