@@ -36,19 +36,19 @@ If your first draft requires more than two paragraphs to get to the point of you
 
 From my experience as a JSConf EU curator, I have seen lots of compelling, and not so compelling, talk proposals. Here are some examples of great ones:
 
-### A successful proposal from Angelina Fabbro:
+### A [successful proposal](http://2012.jsconf.eu/speaker/2012/08/24/inspector-web-and-the-mystery-of-the-shadow-dom.html) from [Angelina Fabbro](https://twitter.com/angelinamagnum):
 
 “Many of us have heard about web components and shadow DOM elements as up-and-coming technologies for front-end development. They certainly sound cool, but what can they actually be used for, right now? At the time of writing this proposal, there aren’t a lot of good tutorials to get started using them available on the web. We’ll take a look at the proposed W3C spec and the current state of implementation (including libraries and polyfills for cross-browser niceness), but we’ll also go a step further and dive into the DOM with live coding to show what can be done with JavaScript to play with these components and how they can be used for rapid wireframe and prototype development.”
 
-**Why is Angelina’s proposal compelling?** It asks what practical applications a cool new technology can be used for “right now”, then offers to fill an existing knowledge gap, and show you how to use the technology.
+**Why is Angelina’s proposal compelling?** It asks what practical applications a cool new technology can be used “right now”, then offers to fill an existing knowledge gap, and show you how to use the technology.
 
-### A successful proposal from Stuart Memo:
+### A [successful proposal](http://2012.jsconf.eu/speaker/2012/08/24/javascript-is-the-new-punk-rock.html) from [Stuart Memo](https://twitter.com/stuartmemo):
 
 “Programmers are artists, and JavaScript is the new Punk Rock. My talk will show that JavaScript can be used to write and perform music using the wonderful Web Audio API. I’ll talk about why we should do this and why it’s the future of music. By the time the conference is over you’ll have burned your guitar, remixed a dozen tunes on GitHub, and started a JavaScript band that has its sights set on changing the world.”
 
 **Why is Stuart’s proposal compelling?** It claims you can do something unexpected (write and perform music with JavaScript), and says that after the talk, you will be able to do so yourself.
 
-### A successful proposal from Natalia Berdy:
+### A [successful proposal](http://2013.jsconf.eu/speakers/natalia-berdys-the-web-experience-in-the-autistic-spectrum.html) from [Natalia Berdy](https://twitter.com/batalia):
 
 “Designing with cognitively-impaired users in mind can be very illuminative, leading to a broader understanding of the role of UX/UI design in general. The perceptual issues involved for users with Asperger syndrome and high-functioning autism in fact pave the way for current web trends - their web experience can be the most sensitive test of good design.”
 
