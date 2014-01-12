@@ -48,7 +48,7 @@ From my experience as a JSConf EU curator, I have seen lots of compelling, and n
 
 **Why is Stuart’s proposal compelling?** It claims you can do something unexpected (write and perform music with JavaScript), and says that after the talk, you will be able to do so yourself.
 
-### A [successful proposal](http://2013.jsconf.eu/speakers/natalia-berdys-the-web-experience-in-the-autistic-spectrum.html) from [Natalia Berdy](https://twitter.com/batalia):
+### A [successful proposal](http://2013.jsconf.eu/speakers/natalia-berdys-the-web-experience-in-the-autistic-spectrum.html) from [Natalia Berdys](https://twitter.com/batalia):
 
 “Designing with cognitively-impaired users in mind can be very illuminative, leading to a broader understanding of the role of UX/UI design in general. The perceptual issues involved for users with Asperger syndrome and high-functioning autism in fact pave the way for current web trends - their web experience can be the most sensitive test of good design.”
 
