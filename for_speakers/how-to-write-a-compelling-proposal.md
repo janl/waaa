@@ -34,13 +34,13 @@ If your first draft requires more than two paragraphs to get to the point of you
 
 ## A few examples of good proposals
 
-From my experience as a JSConf EU curator, I have seen lots of compelling, and not so compelling, talk proposals. Here are some examples of great ones:
+From my experience as a JSConf EU curator, I have seen lots of compelling, and not so compelling, talk proposals. Here are some examples of proposals I found compelling and why:
 
 ### A [successful proposal](http://2012.jsconf.eu/speaker/2012/08/24/inspector-web-and-the-mystery-of-the-shadow-dom.html) from [Angelina Fabbro](https://twitter.com/angelinamagnum):
 
 “Many of us have heard about web components and shadow DOM elements as up-and-coming technologies for front-end development. They certainly sound cool, but what can they actually be used for, right now? At the time of writing this proposal, there aren’t a lot of good tutorials to get started using them available on the web. We’ll take a look at the proposed W3C spec and the current state of implementation (including libraries and polyfills for cross-browser niceness), but we’ll also go a step further and dive into the DOM with live coding to show what can be done with JavaScript to play with these components and how they can be used for rapid wireframe and prototype development.”
 
-**Why is Angelina’s proposal compelling?** It asks what practical applications a cool new technology can be used “right now”, then offers to fill an existing knowledge gap, and show you how to use the technology.
+**Why is Angelina’s proposal compelling?** It asks what practical applications a cool new technology can be used for “right now”, then offers to fill an existing knowledge gap, and show you examples of how to use the technology in your work.
 
 ### A [successful proposal](http://2012.jsconf.eu/speaker/2012/08/24/javascript-is-the-new-punk-rock.html) from [Stuart Memo](https://twitter.com/stuartmemo):
 
