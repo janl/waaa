@@ -8,7 +8,7 @@ summary: Before you can speak, you have to be selected!
 
 # {{ page.title }}
 
-Whatever your motivations for speaking, you first need to get selected to speak, and for that you need to craft a proposal that gets your talk selected. Additionally, since your proposal defines the scope of your talk, it can a valuable early step in the overall process.
+Whatever your motivations for speaking, you first need to get selected to speak, and for that you need to craft a proposal that gets your talk selected. Additionally, since your proposal defines the scope of your talk, it can be a valuable early step in the overall process.
 
 ## Direct the proposal to the attendees, not the curators
 
@@ -18,13 +18,13 @@ The curators want to put together a great conference with compelling talks for t
 
 ## Be specific about the focus your talk will have
 
-Only rarely is a survey talk appealing, so get specific. A shallow introduction to many things is not as interesting as an in-depth introduction to one thing. If you discuss the broader topic, do so only to set the context for what you will focus on.
+Generally speaking, a shallow introduction to many things is not as interesting as an in-depth introduction to one thing. If you discuss the broader topic, do so only to set the context for what you will focus on.
 
 ## One strategy: Pose the question your talk will answer
 
 Often, talks answer questions that start with “how”, “why”, “when” and so on. An easy trick is to directly ask these questions in your proposal, leaving the reader wondering the answer.
 
-## Use proper grammar, spelling and punctuation
+## Use proper grammar, spelling, and punctuation
 
 If you submit a sloppily written proposal, you appear careless and as if you are not taking the opportunity seriously. You risk being rejected on those grounds outright. Speaking requires a lot of thoughtful preparation, and curators can only assume you will be as careless when preparing the talk itself.
 
@@ -56,6 +56,6 @@ From my experience as a JSConf EU curator, I have seen lots of compelling, and n
 
 ## Have your proposal reviewed by someone with experience
 
-Just as you might ask a friend to critique a draft of your CV, an essay, or the talk itself, ask someone (ideally a writer, speaker, or curator) to review your talk proposal. They will catch typos, as well verify whether your proposal explains the scope of your talk, and explains its benefit to your audience.
+Just as you might ask a friend to critique a draft of your CV, an essay, or the talk itself, ask someone (ideally a writer, speaker, or curator) to review your talk proposal. They will catch typos, as well as verify whether your proposal explains the scope of your talk, and explains its benefit to your audience.
 
 Good luck!
