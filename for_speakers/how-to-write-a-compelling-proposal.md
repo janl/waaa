@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: for_speakers
 title: How to write a compelling proposal
 for_speakers: true
 list_order: four
@@ -59,3 +59,9 @@ From my experience as a JSConf EU curator, I have seen lots of compelling, and n
 Just as you might ask a friend to critique a draft of your CV, an essay, or the talk itself, ask someone (ideally a writer, speaker, or curator) to review your talk proposal. They will catch typos, as well as verify whether your proposal explains the scope of your talk, and explains its benefit to your audience.
 
 Good luck!
+
+## More advice
+
+Other people have shared their advice from their personal experience too. Be inspired!
+
+* [Is your conference proposal good enough?](http://rckbt.me/2014/01/conference-proposals/) by Raquel Vélez, [@rockbot](https://twitter.com/rockbot)
