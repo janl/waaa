@@ -24,7 +24,7 @@ All the posts are written in markdown. If you're not familiar with markdown, che
 
 Blog posts (opinion, advice, timely news) goes in the `_posts` directory, and must be named `YYYY-MM-DD-the-title-of-the-post.md`.
 
-Start your page/post off with the following Jekyll “head matter”:
+Start your page/post off with the following Jekyll “front matter”:
 
 ```
 ---
@@ -39,7 +39,7 @@ title: The Title of the Post
 
 Then add whatever content you want below this header. Write your post in [markdown](http://daringfireball.net/projects/markdown/syntax).
 
-Instructional/informational articles for speakers and curators go into the respective for_speakers and for_curators directories. The “head matter” for these pages is slightly different; take a look at the existing page to see what is required.
+Instructional/informational articles for speakers and curators go into the respective for_speakers and for_curators directories. The “front matter” for these pages is slightly different; take a look at the existing page to see what is required.
 
 ### Eyeballing Your Changes
 
