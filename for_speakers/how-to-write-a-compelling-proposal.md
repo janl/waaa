@@ -30,7 +30,7 @@ If you submit a sloppily written proposal, you appear careless and as if you are
 
 ## Make your point as succinctly as you can
 
-If your first draft requires more than two paragraphs to get to the point of your topic, edit to slim things down. Remove any words that can be without the changing meaning. You may have a lot of competition, so try to make a good impression quickly. If your proposal is too much work to read or understand, it might get skipped during the selection process.
+If your first draft requires more than two paragraphs to get to the point of your topic, edit to slim things down. Take out any words that can be removed without changing the meaning. You may have a lot of competition, so try to make a good impression quickly. If your proposal is too much work to read or understand, it might get skipped during the selection process.
 
 ## A few examples of good proposals
 
@@ -65,3 +65,5 @@ Good luck!
 Other people have shared their advice from their personal experience too. Be inspired!
 
 * [Is your conference proposal good enough?](http://rckbt.me/2014/01/conference-proposals/) by Raquel Vélez, [@rockbot](https://twitter.com/rockbot)
+
+* For a conference organizer’s perspective, read [An Addendum About Conference Proposals](http://blog.voodootikigod.com/an-addendum-about-conference-proposals/) by Chris Williams, [@voodootikigod](https://twitter.com/voodootikigod), of JSConf
