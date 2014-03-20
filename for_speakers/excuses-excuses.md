@@ -10,7 +10,7 @@ summary: Why you say you won’t become a speaker, and why your reasons aren’t
 
 You can only win a speaker slot if you enter the competition. If you were previously waiting for an invitation to speak: THIS IS YOUR INVITATION. SUBMIT YOUR TALK PROPOSAL TODAY.
 
-Here is why you won’t, and why your reasons aren’t valid:
+Here is why you won’t, and why those reasons aren’t valid:
 
 ##1. You think "I have nothing to talk about"
 
