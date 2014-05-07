@@ -110,7 +110,7 @@ These are the success (mostly) stories of people whose talk proposals got accept
 
 <blockquote class="twitter-tweet" data-in-reply-to="212509267520012288"><p>@<a href="https://twitter.com/theophani">theophani</a> have a lot of thoughts/experience with this.will write up later when i have time, and so curious to hear what you collect!</p>&mdash; kathryn rotondo (@krotondo) <a href="https://twitter.com/krotondo/status/212567918788087809" data-datetime="2012-06-12T15:31:55+00:00">June 12, 2012</a></blockquote>
 
-kathryn ([@krotondo](https://twitter.com/krotondo)) made good on her promise to write up her thoughts and experiences: [lessons from conference rejections](http://flashionista.org/2012/06/lessons-from-conference-rejections/). If you are considering submitting talk proposals, and especially if you are worried about rejection, you should read her post. My favourite line is this one:
+kathryn ([@krotondo](https://twitter.com/krotondo)) made good on her promise to write up her thoughts and experiences: [lessons from conference rejections](https://medium.com/p/fbceb1bca80). If you are considering submitting talk proposals, and especially if you are worried about rejection, you should read her post. My favourite line is this one:
 
 > my advice: let conference organizers decide – don’t let your intimidation prevent you from sending out a proposal.
 
