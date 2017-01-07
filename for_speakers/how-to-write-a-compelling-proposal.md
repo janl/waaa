@@ -66,4 +66,4 @@ Other people have shared their advice from their personal experience too. Be ins
 
 * [Is your conference proposal good enough?](http://rckbt.me/2014/01/conference-proposals/) by Raquel Vélez, [@rockbot](https://twitter.com/rockbot)
 
-* For a conference organizer’s perspective, read [An Addendum About Conference Proposals](http://blog.voodootikigod.com/an-addendum-about-conference-proposals/) by Chris Williams, [@voodootikigod](https://twitter.com/voodootikigod), of JSConf
+* For a conference organizer’s perspective, read [An Addendum About Conference Proposals](http://voodootikigod.com/an-addendum-about-conference-proposals/) by Chris Williams, [@voodootikigod](https://twitter.com/voodootikigod), of JSConf
