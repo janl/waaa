@@ -8,7 +8,7 @@ summary: It is possible to give a great talk on a subject you didn’t know much
 
 # {{ page.title }}
 
-##Well, *almost* nothing
+## Well, *almost* nothing
 
 A lot of conferences have calls for proposals (CFPs) months before the conference, but the speakers often present super-fresh stuff. I had a hunch, so I asked the Twitters:
 
@@ -21,7 +21,7 @@ A lot of conferences have calls for proposals (CFPs) months before the conferenc
 <blockquote class="twitter-tweet"><p>Were you successful? Were you selected? How was the talk? Please tell me about it! I'm collecting experiences.</p>&mdash; Tiffany Conroy (@theophani) <a href="https://twitter.com/theophani/status/212509420012314627" data-datetime="2012-06-12T11:39:28+00:00">June 12, 2012</a></blockquote>
 
 
-##And?
+## And?
 
 What I found out did not surprise me, but it might surprise you:
 
@@ -35,7 +35,7 @@ What I found out did not surprise me, but it might surprise you:
 
 <blockquote class="twitter-tweet" data-in-reply-to="212509267520012288"><p>@<a href="https://twitter.com/theophani">theophani</a> I gave a talk on indie rappers and similarities between their hustle and businesses building open source once. It went well.</p>&mdash; Corey Donohoe (@atmos) <a href="https://twitter.com/atmos/status/212584388494499840" data-datetime="2012-06-12T16:37:22+00:00">June 12, 2012</a></blockquote>
 
-###It's totally common in academia
+### It's totally common in academia
 
 <blockquote class="twitter-tweet" data-in-reply-to="212509267520012288"><p>@<a href="https://twitter.com/theophani">theophani</a> Yes. presenting on it in 3 weeks.</p>&mdash; moink (@moink_tdr) <a href="https://twitter.com/moink_tdr/status/212527646049972224" data-datetime="2012-06-12T12:51:54+00:00">June 12, 2012</a></blockquote>
 
@@ -45,7 +45,7 @@ What I found out did not surprise me, but it might surprise you:
 
 <blockquote class="twitter-tweet" data-in-reply-to="212509267520012288"><p>@<a href="https://twitter.com/theophani">theophani</a> A presenter once said “The best model in the abstract is wrong. This is actually the best model.”</p>&mdash; Mark James Adams (@mja) <a href="https://twitter.com/mja/status/212533129037086721" data-datetime="2012-06-12T13:13:41+00:00">June 12, 2012</a></blockquote>
 
-###… and in our industry as well
+### … and in our industry as well
 
 <blockquote class="twitter-tweet" data-in-reply-to="212509267520012288"><p>@<a href="https://twitter.com/theophani">theophani</a> yes. It went really well as I was forced to understand the topic in detail to write the talk. And my approach to learning...</p>&mdash; Christian Heilmann(@codepo8) <a href="https://twitter.com/codepo8/status/212531361494482945" data-datetime="2012-06-12T13:06:39+00:00">June 12, 2012</a></blockquote>
 
@@ -59,13 +59,13 @@ What I found out did not surprise me, but it might surprise you:
 
 <blockquote class="twitter-tweet" data-in-reply-to="212531080509657088"><p>@<a href="https://twitter.com/theophani">theophani</a> @<a href="https://twitter.com/janl">janl</a> not on a topic I didn't know about, but nearly always a incomplete or non-started idea.</p>&mdash; Remy Sharp (@rem) <a href="https://twitter.com/rem/status/212531261644873728" data-datetime="2012-06-12T13:06:16+00:00">June 12, 2012</a></blockquote>
 
-###And it's highly recommended
+### And it's highly recommended
 
 <blockquote class="twitter-tweet" data-in-reply-to="212509267520012288"><p>@<a href="https://twitter.com/theophani">theophani</a> yup, and this works awesomely for pushing yourself out of the comfort zone - did it several times</p>&mdash; Douglas Campos (@qmx) <a href="https://twitter.com/qmx/status/212533198670925824" data-datetime="2012-06-12T13:13:57+00:00">June 12, 2012</a></blockquote>
 
 <blockquote class="twitter-tweet" data-in-reply-to="212509267520012288"><p>@<a href="https://twitter.com/theophani">theophani</a> of course! Best impetus to learn it, finish it, flesh it out.</p>&mdash; Jessica Kerr (@jessitron) <a href="https://twitter.com/jessitron/status/212535457739849728" data-datetime="2012-06-12T13:22:56+00:00">June 12, 2012</a></blockquote>
 
-###… though not by everyone
+### … though not by everyone
 
 <blockquote class="twitter-tweet" data-in-reply-to="212509420012314627"><p>@<a href="https://twitter.com/theophani">theophani</a> I gave a talk about Extreme Programming in '99 in a big conference after reading just the books. Was well received. Never again.</p>&mdash; Lalo Martins (@lalomartins) <a href="https://twitter.com/lalomartins/status/212521367139131394" data-datetime="2012-06-12T12:26:57+00:00">June 12, 2012</a></blockquote>
 
@@ -75,7 +75,7 @@ What I found out did not surprise me, but it might surprise you:
 
 <blockquote class="twitter-tweet" data-in-reply-to="212522948408524800"><p>@<a href="https://twitter.com/theophani">theophani</a> I thought about, but I have not enough time to read into the topic and made a presentation. Time is missing all the time :-(</p>&mdash; Fabian Blechschmidt (@Fabian_ikono) <a href="https://twitter.com/Fabian_ikono/status/212597210041434113" data-datetime="2012-06-12T17:28:19+00:00">June 12, 2012</a></blockquote>
 
-###It's a great way to motivate yourself
+### It's a great way to motivate yourself
 
 <blockquote class="twitter-tweet" data-in-reply-to="212509267520012288"><p>@<a href="https://twitter.com/theophani">theophani</a> Submitting talk proposals for incomplete projects is my primary method of setting deadlines ;)</p>&mdash; Jan Schmidt (@thaytan) <a href="https://twitter.com/thaytan/status/212533090797629440" data-datetime="2012-06-12T13:13:32+00:00">June 12, 2012</a></blockquote>
 
@@ -85,14 +85,14 @@ What I found out did not surprise me, but it might surprise you:
 
 <blockquote class="twitter-tweet" data-in-reply-to="212509420012314627"><p>@<a href="https://twitter.com/theophani">theophani</a> It's a tremendous motivating force.</p>&mdash; James Coglan (@jcoglan) <a href="https://twitter.com/jcoglan/status/212532856818372610" data-datetime="2012-06-12T13:12:36+00:00">June 12, 2012</a></blockquote>
 
-###It's a great way to learn
+### It's a great way to learn
 
 <blockquote class="twitter-tweet" data-in-reply-to="212509267520012288"><p>@<a href="https://twitter.com/theophani">theophani</a> @<a href="https://twitter.com/rmurphey">rmurphey</a> absolutely. Nothing gets you learning like the looming threat of a deadline.</p>&mdash; Andy Matthews (@commadelimited) <a href="https://twitter.com/commadelimited/status/212538538816831489" data-datetime="2012-06-12T13:35:11+00:00">June 12, 2012</a></blockquote>
 
 
 <blockquote class="twitter-tweet"><p>@<a href="https://twitter.com/theophani">theophani</a> @<a href="https://twitter.com/rmurphey">rmurphey</a> Constantly. For me, it's an opportunity to explore ideas and start a discussion. Always had success with it.</p>&mdash; Jen Myers (@antiheroine) <a href="https://twitter.com/antiheroine/status/212532644523679744" data-datetime="2012-06-12T13:11:45+00:00">June 12, 2012</a></blockquote>
 
-###But warning: It can be a lot of work
+### But warning: It can be a lot of work
 
 <blockquote class="twitter-tweet" data-in-reply-to="212509420012314627"><p>@<a href="https://twitter.com/theophani">theophani</a> I totally did it here: <a href="http://t.co/1bR2ztZa" title="http://conferenciarails.org/speakers.html#porras">conferenciarails.org/speakers.html#…</a> I learnt a lot, had lots of fun and I think the audience enjoyed too. Very positive!</p>&mdash; Sergio (@porras) <a href="https://twitter.com/porras/status/212529469041287169" data-datetime="2012-06-12T12:59:08+00:00">June 12, 2012</a></blockquote>
 
@@ -104,7 +104,7 @@ What I found out did not surprise me, but it might surprise you:
 
 <blockquote class="twitter-tweet" data-in-reply-to="212530248380710913"><p>@<a href="https://twitter.com/theophani">theophani</a> … is making sure I have enough time to prepare it right and actually have some sleep in the previous week</p>&mdash; Sergio (@porras) <a href="https://twitter.com/porras/status/212535751072681984" data-datetime="2012-06-12T13:24:06+00:00">June 12, 2012</a></blockquote>
 
-##Learning from rejection
+## Learning from rejection
 
 These are the success (mostly) stories of people whose talk proposals got accepted. But what if your proposal is rejected? That might suck, right? But even
 
