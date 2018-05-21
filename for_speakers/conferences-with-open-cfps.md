@@ -23,3 +23,7 @@ If you are a conference organizer, add your CFP details to your conference listi
 An account that tweets and retweets about CFPs.
 
 If you are a conference organizer, mention @callbackwomen to get a retweet.
+
+## [IT CFP List](https://github.com/softwaremill/it-cfp-list) - [@ItCfpList](https://twitter.com/ItCfpList)
+
+List of IT related CFPs. Changes are published via Twitter [@ItCfpList](https://twitter.com/ItCfpList). Open for Pull Requests!
