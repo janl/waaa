@@ -27,3 +27,7 @@ If you are a conference organizer, mention @callbackwomen to get a retweet.
 ## [IT CFP List](https://github.com/softwaremill/it-cfp-list) - [@ItCfpList](https://twitter.com/ItCfpList)
 
 List of IT related CFPs. Changes are published via Twitter [@ItCfpList](https://twitter.com/ItCfpList). Open for Pull Requests!
+
+## [CFP Land](https://www.cfpland.com) - [@cfp_land](https://twitter.com/cfp_land)
+
+A weekly curated email of all the CFPs closing soon as well as an RSS and Twitter feed of CFPs closing in the next 30 days. Free for speakers or conferences to add their events.
