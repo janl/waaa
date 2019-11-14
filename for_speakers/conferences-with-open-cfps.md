@@ -31,3 +31,7 @@ List of IT related CFPs. Changes are published via Twitter [@ItCfpList](https://
 ## [CFP Land](https://www.cfpland.com) - [@cfp_land](https://twitter.com/cfp_land)
 
 A weekly curated email of all the CFPs closing soon as well as an RSS and Twitter feed of CFPs closing in the next 30 days. Free for speakers or conferences to add their events.
+
+## [Tulu.la](https://tulu.la)
+
+Curated list of tech events and open CFPs. Friendly community and speaker support champions. Community-driven.
